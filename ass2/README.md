@@ -1,2 +1,0 @@
-# stock-data-flask
-Assignment
